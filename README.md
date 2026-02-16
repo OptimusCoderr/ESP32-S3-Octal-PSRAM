@@ -5,6 +5,7 @@
 ![3](https://github.com/OptimusCoderr/ESP32-S3-Octal-PSRAM/blob/0104eaba3bb5c9bc84f64f7ac565f98f2a447b63/images/layer2gnd.png)
 ![4](https://github.com/OptimusCoderr/ESP32-S3-Octal-PSRAM/blob/0104eaba3bb5c9bc84f64f7ac565f98f2a447b63/images/layer3pwr.png)
 ![5](https://github.com/OptimusCoderr/ESP32-S3-Octal-PSRAM/blob/0104eaba3bb5c9bc84f64f7ac565f98f2a447b63/images/layer4sig_gnd.png)
+![6](https://github.com/OptimusCoderr/ESP32-S3-Octal-PSRAM/blob/7fead4411b42c5e28c62cc746c592e42e0e191f8/images/back.png)
 
 **ESP32-S3-Octal-PSRAM** is an advanced development board centered around the **ESP32-S3R16V**, designed specifically for high-bandwidth data processing and precision analog sensing. This project pushes the limits of the S3's **16MB Octal PSRAM** by implementing professional-grade layout techniques to ensure stability and low noise floors.
 
